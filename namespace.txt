@@ -1,0 +1,14 @@
+快捷下单：quick order/QO
+持仓订单管理：position order management/pom
+
+资金：capital
+合约：contract
+可开：kekai
+要开：yaokai
+买价：buyprice
+卖价：sellprice
+
+选择常规单量：regular order
+异常控制：anomaly control
+减仓：subtract
+加仓：add

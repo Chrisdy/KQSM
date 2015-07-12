@@ -1,0 +1,127 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ 生成的包含文件。
+// 供 KQSM.rc 使用
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDR_MAINFRAME                   128
+#define IDR_KQSMTYPE                    130
+#define IDD_DIALOG_TEST                 310
+#define IDD_DIALOG_QO                   311
+#define IDD_DIALOG_POM                  312
+#define IDR_ACCELERATOR1                314
+#define IDR_ACCELERATOR_QO              314
+#define IDD_DIALOG_SYSSET               316
+#define IDD_DIALOG_USM                  317
+#define IDR_ACCELERATOR_USM             318
+#define IDC_BUTTON1                     1000
+#define IDC_BUTTON_VARIETY1             1000
+#define IDC_BUTTON_CONNECT              1000
+#define IDC_BUTTON_START                1000
+#define IDC_BUTTON_LOGININ              1000
+#define IDC_STATIC_CAPITAL              1001
+#define IDC_BUTTON_SAVE                 1001
+#define IDC_EDIT_CAPITAL                1002
+#define IDC_STATIC_CONTRACT             1003
+#define IDC_COMBO_CONTRACT              1004
+#define IDC_STATIC_KEKAI                1005
+#define IDC_EDIT_KEKAI                  1006
+#define IDC_STATIC_YAOKAI               1007
+#define IDC_EDIT_YAOKAI                 1008
+#define IDC_STATIC_BUYPRICE             1009
+#define IDC_EDIT_BUYPRICE               1010
+#define IDC_STATIC_SELLPRICE            1011
+#define IDC_EDIT_SELLPRICE              1012
+#define IDC_BUTTON_VARIETY2             1013
+#define IDC_BUTTON_VARIETY3             1014
+#define IDC_BUTTON_SELL1                1015
+#define IDC_BUTTON_SELL2                1016
+#define IDC_BUTTON_SELL3                1017
+#define IDC_BUTTON_BUY1                 1018
+#define IDC_BUTTON_BUY2                 1019
+#define IDC_BUTTON_BUY3                 1020
+#define IDC_BUTTON_REGULARORDER         1021
+#define IDC_BUTTON_ANOMALYCONTROL       1022
+#define IDC_BUTTON_SUBTRACT             1023
+#define IDC_BUTTON_ADD                  1024
+#define IDC_BUTTON_ENTER                1025
+#define IDC_LIST_TEST_MESSAGE           1026
+#define IDC_STATIC_ZHISUN               1026
+#define IDC_EDIT_ZHISUN                 1027
+#define IDC_SB_ZHISUN                   1028
+#define IDC_STATIC_ZHIYING              1029
+#define IDC_EDIT_ZHIYING                1030
+#define IDC_SB_ZHIYING                  1031
+#define IDC_STATIC_FLOATZHISUN          1032
+#define IDC_EDIT_FLOATZHISUN            1033
+#define IDC_SB_FLOATZHISUN              1034
+#define IDC_STATIC_NUMBER               1035
+#define IDC_EDIT_NUMBER                 1036
+#define IDC_SB_NUMBER                   1037
+#define IDC_COMBO_VALID                 1039
+#define IDC_LIST_SHOW                   1041
+#define IDC_BUTTON_EDIT                 1042
+#define IDC_BUTTON_DELETE               1043
+#define IDC_BUTTON_SHUTDOWN             1045
+#define IDC_STATIC_TIPS3                1046
+#define IDC_STATIC_TIPS2                1047
+#define IDC_STATIC_TIPS1                1048
+#define IDC_STATIC_TIPS4                1049
+#define IDC_EDIT_PORT                   1051
+#define IDC_EDIT_BROKERID               1052
+#define IDC_EDIT_USERNAME               1053
+#define IDC_EDIT_PASSWORD               1054
+#define IDC_STATIC_IPADDRESS            1055
+#define IDC_STATIC_PORT                 1056
+#define IDC_STATIC_BROKERID             1057
+#define IDC_STATIC_USERNAME             1058
+#define IDC_STATIC_PASSWORD             1059
+#define IDC_IPADDRESS_INPUT             1060
+#define IDC_RADIO_REVOKE1               1061
+#define IDC_RADIO_REVOKE2               1062
+#define IDC_EDIT_REVOKESEC              1063
+#define IDC_STATIC_GB_REVOKE            1064
+#define IDC_STATIC_GB_REVOKESUB         1065
+#define IDC_RADIO_SUB1                  1066
+#define IDC_RADIO_SUB2                  1067
+#define IDC_RADIO_SUB2_1                1068
+#define IDC_RADIO_SUB2_2                1069
+#define IDC_EDIT_REVOKESUB_NEWPOINT     1070
+#define IDC_STATIC_REVOKESUB1           1071
+#define IDC_EDIT_REVOKESUB_OLDPOINT     1072
+#define IDC_STATIC_REVOKESUB2           1073
+#define ID_32771                        32771
+#define ID_QUICKORDER                   32772
+#define ID_32773                        32773
+#define ID_ORDERMANAGE                  32774
+#define ID_32775                        32775
+#define ID_32776                        32776
+#define ID_32777                        32777
+#define ID_32778                        32778
+#define ID_32779                        32779
+#define ID_32780                        32780
+#define ID_32781                        32781
+#define ID_32782                        32782
+#define ID_32783                        32783
+#define ID_USERLOGIN                    32784
+#define ID_32785                        32785
+#define ID_TEST                         32786
+#define ID_QO                           32787
+#define ID_MENU_QO                      32788
+#define ID_MENU_POM                     32789
+#define ID_SYSSET                       32806
+#define ID_MENUsysset                   32807
+#define ID_MENU_SYSSET                  32808
+#define ID_32809                        32809
+#define ID_USM                          32810
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        315
+#define _APS_NEXT_COMMAND_VALUE         32806
+#define _APS_NEXT_CONTROL_VALUE         1027
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif
